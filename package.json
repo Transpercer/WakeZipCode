@@ -1,0 +1,20 @@
+{
+    "name": "wake-zipcode",
+    "version": "1.0.0",
+    "description": "App that tells you what town/city you are in based on the zipcode entered - Based in Wake County",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "A. Pierce",
+    "license": "Do I need one?",
+    "dependencies": {
+        "express": "^4.18.1",
+        "open": "^8.4.0"
+    },
+    "keywords": [
+        "node",
+        "express",
+        "nodejs"
+    ]
+}
